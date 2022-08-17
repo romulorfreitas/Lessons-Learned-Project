@@ -3,17 +3,25 @@ body{
 }
 
 #cabecalho{
-    top: 0px;
+    top: 0;
 }
+
 #titulo{
     
 }
+
 #minha_foto{
     width: 150px;
 }
+
 #licoes_aprendidas{
     
 }
+
 #licoes_a_aprender{
-    
+
+}
+
+#rodape{
+
 }
